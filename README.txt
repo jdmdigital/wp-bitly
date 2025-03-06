@@ -1,5 +1,5 @@
 === WP Bitly ===
-Contributors: temeritystudios, chipbennett
+Contributors: temeritystudios, chipbennett, jdmdigital
 Tags: shortlink, bitly, url, shortener, custom domain, social, media, twitter, facebook, share
 Requires at least: 4.5
 Tested up to: 4.9.4
