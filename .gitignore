@@ -2,7 +2,10 @@
 Thumbs.db
 .DS_Store
 .idea
+.LCK
+dwsync.xml
 
 # Folders to ignore
 node_modules
 /log/debug.txt
+_notes
