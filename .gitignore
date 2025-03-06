@@ -9,3 +9,4 @@ dwsync.xml
 node_modules
 /log/debug.txt
 _notes
+*.LCK
